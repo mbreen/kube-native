@@ -1,5 +1,5 @@
 DTR:
-  FQDN: <image registry public DNS>
+  FQDN: jns47qsaakxbz8yrn-fn67fwkzfbv5gweje.labs.strigo.io
   port: 4443
 
 DB:
